@@ -42,7 +42,7 @@ Analysis of influenza trends across US and optimization of healthcare staff allo
 
 GameCo, a video game company wants to develop new games and wants to use data to inform the development of new games. Analysis is required to find out how the new games will fare in the market.
 
-![GameCo Image](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/b17b15f2-da97-4026-98e6-3420094f0d70)
+![Rockbuster Image 4](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/61034759-078c-451b-8ca5-e843302519ae)
 
 ---
 
