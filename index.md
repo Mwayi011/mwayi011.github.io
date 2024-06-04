@@ -8,7 +8,7 @@
 
 An analytical review is to be conducted on billionaires across the world
 
-![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/fe3183a5-5823-42f5-baf0-5b91ad5f7cfd)
+![Billionaire 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ac99040d-8c0e-4629-996a-5719e837202b)
 
 ---
 [Pig-E-Bank](/pdf/sample_presentation.pdf)
