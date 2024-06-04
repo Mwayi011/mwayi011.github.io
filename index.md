@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Portfolio 
 
 [World Billionaires](/sample_page)
-![Billionaires](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/d2b8c335-cbf0-41d1-8a6c-b9223cdbb3f8)
+
+![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/fe3183a5-5823-42f5-baf0-5b91ad5f7cfd)
+
 
 
 ---
