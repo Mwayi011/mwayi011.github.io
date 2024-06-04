@@ -35,29 +35,16 @@ Movie rental analysis for Rockbuster Stealth LLCs expansion to online video rent
 
 Analysis of influenza trends across US and optimization of healthcare staff allocation
 
-![Flu Season 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/5d5c315d-bdb0-4171-907e-57445502d157)
+![Flu Season 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/57a11200-8043-4d72-8a1f-a85fc8bd9473)
 
 ---
 [GameCo](http://example.com/)
 
 GameCo, a video game company wants to develop new games and wants to use data to inform the development of new games. Analysis is required to find out how the new games will fare in the market.
 
-![GameCo Image 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/82420083-98c9-4f78-852f-93b33435eba1)
+![GameCo Image](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/b17b15f2-da97-4026-98e6-3420094f0d70)
 
 ---
-
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
