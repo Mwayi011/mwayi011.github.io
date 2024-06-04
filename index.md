@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [World Billionaires](/sample_page)
-<img src="C:\Users\mwayi\Downloads\Billionaires.jpg"/>
+![Billionaires](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/d2b8c335-cbf0-41d1-8a6c-b9223cdbb3f8)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
