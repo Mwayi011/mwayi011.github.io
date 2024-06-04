@@ -18,20 +18,32 @@ A global bank seeking analytical support for their customer retention team.
 ![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/3e05c6af-8cb5-4338-9ec6-3729f17a8c24)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Instacart](http://example.com/)
+
+Grocery basket analysis with customer profiling and spending behaviour study
+
+![Instacart](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/cf2d68cd-1ebd-46f4-a70d-c4e54c3be0d3)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rockbuster Stealth](http://example.com/)
+
+Movie rental analysis for Rockbuster Stealth LLCs expansion to online video rental business
+
+![Rockbuster Image 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ddfa080a-4a37-4f12-9eb3-30ac3b8f8798)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Flu Season Analysis](http://example.com/)
+
+Analysis of influenza trends across US and optimization of healthcare staff allocation
+
+![Rockbuster Image 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/5fcdc053-0d19-42ed-b6d3-2e8c1b7dd334)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GameCo](http://example.com/)
+
+GameCo, a video game company wants to develop new games and wants to use data to inform the development of new games. Analysis is required to find out how the new games will fare in the market.
+
+![GameCo Image 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/761829aa-fcc6-4ec6-bcfd-e40f4dfd68f3)
 
 ---
 
