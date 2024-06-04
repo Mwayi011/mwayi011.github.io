@@ -3,7 +3,7 @@
 ---
 
 
-[World Billionaires](https://github.com/Mwayi011/Rockbuster-Stealth-Presentation) 
+[World Billionaires](https://github.com/Mwayi011/World-Billionaires)
 
 An analytical review is to be conducted on billionaires across the world
 
