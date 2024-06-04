@@ -2,16 +2,23 @@
 
 ---
 
-### Data Analytics Portfolio 
+###  
 
 [World Billionaires](/sample_page)
 
+An analytical review is to be conducted on billionaires across the world
+
 ![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/fe3183a5-5823-42f5-baf0-5b91ad5f7cfd)
 
+---
+[Pig-E-Bank](/pdf/sample_presentation.pdf)
 
+A global bank seeking analytical support for their customer retention team.
+
+![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/3e05c6af-8cb5-4338-9ec6-3729f17a8c24)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,6 +26,16 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 
 ### Category Name 2
 
