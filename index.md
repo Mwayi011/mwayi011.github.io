@@ -10,13 +10,6 @@ An analytical review is to be conducted on billionaires across the world
 ![Billionaire 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ac99040d-8c0e-4629-996a-5719e837202b)
 
 ---
-[Pig-E-Bank](/pdf/sample_presentation.pdf)
-
-A global bank seeking analytical support for their customer retention team.
-
-![Billionaire 1](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/3e05c6af-8cb5-4338-9ec6-3729f17a8c24)
-
----
 [Instacart](https://github.com/Mwayi011/Insacart-Basket-Analysis-Python)
 
 Grocery basket analysis with customer profiling and spending behaviour study
@@ -31,7 +24,7 @@ Movie rental analysis for Rockbuster Stealth LLCs expansion to online video rent
 ![Rockbuster Image 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ddfa080a-4a37-4f12-9eb3-30ac3b8f8798)
 
 ---
-[Flu Season Analysis](http://example.com/)
+[Flu Season Analysis]((https://github.com/Mwayi011/Flu-Season-Analysis/tree/main))
 
 Analysis of influenza trends across US and optimization of healthcare staff allocation
 
@@ -43,10 +36,6 @@ Analysis of influenza trends across US and optimization of healthcare staff allo
 GameCo, a video game company wants to develop new games and wants to use data to inform the development of new games. Analysis is required to find out how the new games will fare in the market.
 
 ![Rockbuster Image 4](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/61034759-078c-451b-8ca5-e843302519ae)
-
----
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
