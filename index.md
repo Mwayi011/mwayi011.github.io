@@ -7,6 +7,8 @@
 
 An analytical review is to be conducted on billionaires across the world
 
+[Tableau](https://public.tableau.com/app/profile/mwayi.sosola/viz/WorldBillionaires_17115479694660/WorldBillionaires)
+
 ![Billionaire 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ac99040d-8c0e-4629-996a-5719e837202b)
 
 ---
