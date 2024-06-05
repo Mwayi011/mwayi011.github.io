@@ -26,11 +26,13 @@ Movie rental analysis for Rockbuster Stealth LLCs expansion to online video rent
 ![Rockbuster Image 2](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/ddfa080a-4a37-4f12-9eb3-30ac3b8f8798)
 
 ---
-[Flu Season Analysis]((https://github.com/Mwayi011/Flu-Season-Analysis/tree/main))
+[Flu Season Analysis](https://github.com/Mwayi011/Flu-Season-Analysis/tree/main)
 
-Analysis of influenza trends across US and optimization of healthcare staff allocation
+Analysis of influenza trends across US and optimization of healthcare staff allocation 
 
 ![Flu Season 3](https://github.com/Mwayi011/mwayi011.github.io/assets/162637586/57a11200-8043-4d72-8a1f-a85fc8bd9473)
+
+[Tableau](https://public.tableau.com/app/profile/mwayi.sosola/viz/InfluenzaAnalysis_17175396196530/Story1)
 
 ---
 [GameCo](https://github.com/Mwayi011/GAMECO/blob/main/Final%20Presentation_13-08-2023_v1.0.pdf)
